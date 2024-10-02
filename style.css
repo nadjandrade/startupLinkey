@@ -32,8 +32,27 @@ body{
     .box .inputBox input{
     width: 100px;
     padding: 10px 0;
-    
-    
+    font-size: 16px
+    color #FFFFFF;
+    letter-spacing: 2px;
+    margin-bottom: 30px;
+    border: none;
+    border-bottom: 1px solid #FFFFFF;
+    outline: none;
+    background-color: transparent;
+    }
+
+    .box .inputBox label {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 10px 0;
+    font-size: 16px;
+    color: #FFFFFF;
+    pointer-events: none;
+    transition: .5s;
+
+   
     
     }
     
