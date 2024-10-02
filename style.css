@@ -37,9 +37,9 @@ body{
     letter-spacing: 2px;
     margin-bottom: 30px;
     border: none;
-    border-bottom: 1px solid #FFFFFF;
+    border-bottom: 1px solid #000000;
     outline: none;
-    background-color: black;
+    background-color: transparent;
     }
 
     .box .inputBox label {
