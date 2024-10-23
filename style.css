@@ -61,7 +61,7 @@ body {
     font-size: 12px;
 }
 
-.box input [type="submit"] {
+.botao {
     background-color: transparent;
     border: none;
     outline: none;
